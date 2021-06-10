@@ -10,16 +10,21 @@ Use of API-REST in express with Nodejs and Blockchain API Alastria. And Angular
 
 ###  Repository 
  
- - In "smart-consent" is the new frontend structure 
- - In "api_df_middleware" is a business middle layer
- - In "api_df_back" contains the data models
- - In "apiblockchain" It contains an api that gives access 
+ - In "frontend" contains the implemented components of the web application 
+ - In "frontend_mobile" contains the implemented components of the mobile application   
+ - In "middleware" contains the business rule APIs
+ - In "backend" contains the database access components.
+ - In "api_blockchain" It contains an api that gives access 
    to the frontend to interact with the Alastria blockchain.
+ - In "api_ipfs" It contains an api that gives access 
+   to the frontend to interact with the IPFS blockchain.
+ - In "api_ncrypt" contains functions to encrypt sensitive data.
+ - In "api_whatsapp" contains functions to send notifications via WhatsApp.
 
 
 ## Links
 
-- Application link: [E-processmed](https://e-processmed.com/)
+- Application link: [E-processmed](http://forms.e-processmed.com:4100/login)
 - Repository link: [Repo](https://github.com/LedgerProject/eprocessmed-smc-app)
 
 
@@ -61,10 +66,9 @@ Screen that lists the patients loaded into the database, also contains a Button 
 # BACKEND
 
 # BlockChain
-  API REST NodeJS  / 
-  access to the Alastria blockchain
+  API REST Python  / 
+  Access to the Alastria blockchain
 
-#Command:
-  npm run test
+
 
 
