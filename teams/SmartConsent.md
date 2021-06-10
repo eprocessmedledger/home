@@ -5,7 +5,7 @@ eHealth startup focused exclusively on the digitization of medical processes, ha
 
 ## The Technology
 
-Use of API-REST in express with Nodejs and Blockchain API Alastria. And Angular
+Use of API-REST in express with Nodejs, Python and Blockchain API Alastria. And Angular
 
 
 ###  Repository 
